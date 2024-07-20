@@ -1,0 +1,26 @@
+A new archer came to town, max.
+max:archer:72 
+max just obtained a new potion called sword.
+max just obtained a new potion called arbuz.
+
+
+Error caught
+max just obtained a new potion called wand.
+arbuz:32 sword:43 wand:45 
+A new fighter came to town, munir.
+
+Error caught
+A new fighter came to town, harry.
+harry:fighter:76 max:archer:72 munir:fighter:163 
+max drinks wand from max.
+Error caught
+Error caught
+A new wizard came to town, oleg.
+
+A new fighter came to town, cat.
+A new fighter came to town, mummy.
+harry drinks sword from max.
+Error caught
+Error caught
+Error caught
+Error caught

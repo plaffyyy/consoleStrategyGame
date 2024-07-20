@@ -1,0 +1,27 @@
+26
+Create character archer max 72
+Show characters
+Create item potion max sword 43
+Create item potion max arbuz 32
+Show spells max
+Show weapons max
+Cast max max arbuz
+Create item potion max wand 45
+Show potions max
+Create character fighter munir 163
+Show spells max
+Cast max notexists sword
+Create character fighter harry 76
+Show characters
+Drink max max wand
+Attack max munir wand
+Drink max max wand
+Create character wizard oleg 138
+Show potions harry
+Create character fighter cat 70
+Create character fighter mummy 60
+Drink max harry sword
+Drink cat munir notexists
+Drink max oleg sword
+Show spells munir
+Drink mummy harry arbuz

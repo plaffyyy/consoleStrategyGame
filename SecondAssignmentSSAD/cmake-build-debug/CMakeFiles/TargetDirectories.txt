@@ -1,0 +1,3 @@
+/home/plaffyyy/CLionProjects/SecondAssignmentSSAD/cmake-build-debug/CMakeFiles/SecondAssignmentSSAD.dir
+/home/plaffyyy/CLionProjects/SecondAssignmentSSAD/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/plaffyyy/CLionProjects/SecondAssignmentSSAD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
